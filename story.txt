@@ -1,0 +1,158 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7 not-logged-in client-root"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8 not-logged-in client-root"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9 not-logged-in client-root"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js not-logged-in client-root"> <!--<![endif]-->
+    <head><meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>
+Instagram
+</title>
+
+        
+        <meta name="robots" content="noimageindex, noarchive">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="theme-color" content="#000000">
+        <meta id="viewport" name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1">
+        
+
+        <link rel="manifest" href="/data/manifest.json">
+
+        
+          <link href="https://graph.instagram.com" rel="preconnect" crossorigin>
+        
+
+        <script type="text/javascript">
+        (function() {
+            var docElement = document.documentElement;
+            var classRE = new RegExp('(^|\\s)no-js(\\s|$)');
+            var className = docElement.className;
+            docElement.className = className.replace(classRE, '$1js$2');
+        })();
+        </script>
+    
+                <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/images/ico/apple-touch-icon-76x76-precomposed.png/932e4d9af891.png">
+                <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/images/ico/apple-touch-icon-120x120-precomposed.png/004705c9353f.png">
+                <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/images/ico/apple-touch-icon-152x152-precomposed.png/82467bc9bcce.png">
+                <link rel="apple-touch-icon-precomposed" sizes="167x167" href="/static/images/ico/apple-touch-icon-167x167-precomposed.png/515cb4eeeeee.png">
+                <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/static/images/ico/apple-touch-icon-180x180-precomposed.png/94fd767f257b.png">
+                
+                    <link rel="icon" sizes="192x192" href="/static/images/ico/favicon-192.png/b407fa101800.png">
+                
+            
+            
+                    <link rel="mask-icon" href="/static/images/ico/favicon.svg/9d8680ab8a3c.svg" color="#262626">
+                  
+                  <link rel="shortcut icon" type="image/x-icon" href="/static/images/ico/favicon.ico/dfa85bb1fd63.ico">
+                
+            
+            
+            
+    
+    
+<meta property="al:ios:app_name" content="Instagram" />
+<meta property="al:ios:app_store_id" content="389801252" />
+<meta property="al:ios:url" content="instagram://mainfeed" />
+<meta property="al:android:app_name" content="Instagram" />
+<meta property="al:android:package" content="com.instagram.android" />
+<meta property="al:android:url" content="https://www.instagram.com/_n/mainfeed/" />
+
+<meta property="og:site_name" content="Instagram" />
+<meta property="og:title" content="Instagram" />
+<meta property="og:image" content="/static/images/ico/favicon-200.png/a0d593d4e9d5.png" />
+<meta property="fb:app_id" content="124024574287414" />
+<meta property="og:url" content="https://instagram.com/" />
+<meta content="Create an account or log in to Instagram - A simple, fun &amp; creative way to capture, edit &amp; share photos, videos &amp; messages with friends &amp; family." name="description" />
+
+    <link rel="alternate" href="https://www.instagram.com/" hreflang="x-default" />
+<link rel="alternate" href="https://www.instagram.com/?hl=en" hreflang="en" />
+<link rel="alternate" href="https://www.instagram.com/?hl=fr" hreflang="fr" />
+<link rel="alternate" href="https://www.instagram.com/?hl=it" hreflang="it" />
+<link rel="alternate" href="https://www.instagram.com/?hl=de" hreflang="de" />
+<link rel="alternate" href="https://www.instagram.com/?hl=es" hreflang="es" />
+<link rel="alternate" href="https://www.instagram.com/?hl=zh-cn" hreflang="zh-cn" />
+<link rel="alternate" href="https://www.instagram.com/?hl=zh-tw" hreflang="zh-tw" />
+<link rel="alternate" href="https://www.instagram.com/?hl=ja" hreflang="ja" />
+<link rel="alternate" href="https://www.instagram.com/?hl=ko" hreflang="ko" />
+<link rel="alternate" href="https://www.instagram.com/?hl=pt" hreflang="pt" />
+<link rel="alternate" href="https://www.instagram.com/?hl=pt-br" hreflang="pt-br" />
+<link rel="alternate" href="https://www.instagram.com/?hl=af" hreflang="af" />
+<link rel="alternate" href="https://www.instagram.com/?hl=cs" hreflang="cs" />
+<link rel="alternate" href="https://www.instagram.com/?hl=da" hreflang="da" />
+<link rel="alternate" href="https://www.instagram.com/?hl=el" hreflang="el" />
+<link rel="alternate" href="https://www.instagram.com/?hl=fi" hreflang="fi" />
+<link rel="alternate" href="https://www.instagram.com/?hl=hr" hreflang="hr" />
+<link rel="alternate" href="https://www.instagram.com/?hl=hu" hreflang="hu" />
+<link rel="alternate" href="https://www.instagram.com/?hl=id" hreflang="id" />
+<link rel="alternate" href="https://www.instagram.com/?hl=ms" hreflang="ms" />
+<link rel="alternate" href="https://www.instagram.com/?hl=nb" hreflang="nb" />
+<link rel="alternate" href="https://www.instagram.com/?hl=nl" hreflang="nl" />
+<link rel="alternate" href="https://www.instagram.com/?hl=pl" hreflang="pl" />
+<link rel="alternate" href="https://www.instagram.com/?hl=ru" hreflang="ru" />
+<link rel="alternate" href="https://www.instagram.com/?hl=sk" hreflang="sk" />
+<link rel="alternate" href="https://www.instagram.com/?hl=sv" hreflang="sv" />
+<link rel="alternate" href="https://www.instagram.com/?hl=th" hreflang="th" />
+<link rel="alternate" href="https://www.instagram.com/?hl=tl" hreflang="tl" />
+<link rel="alternate" href="https://www.instagram.com/?hl=tr" hreflang="tr" />
+<link rel="alternate" href="https://www.instagram.com/?hl=hi" hreflang="hi" />
+<link rel="alternate" href="https://www.instagram.com/?hl=bn" hreflang="bn" />
+<link rel="alternate" href="https://www.instagram.com/?hl=gu" hreflang="gu" />
+<link rel="alternate" href="https://www.instagram.com/?hl=kn" hreflang="kn" />
+<link rel="alternate" href="https://www.instagram.com/?hl=ml" hreflang="ml" />
+<link rel="alternate" href="https://www.instagram.com/?hl=mr" hreflang="mr" />
+<link rel="alternate" href="https://www.instagram.com/?hl=pa" hreflang="pa" />
+<link rel="alternate" href="https://www.instagram.com/?hl=ta" hreflang="ta" />
+<link rel="alternate" href="https://www.instagram.com/?hl=te" hreflang="te" />
+<link rel="alternate" href="https://www.instagram.com/?hl=ne" hreflang="ne" />
+<link rel="alternate" href="https://www.instagram.com/?hl=si" hreflang="si" />
+<link rel="alternate" href="https://www.instagram.com/?hl=ur" hreflang="ur" />
+<link rel="alternate" href="https://www.instagram.com/?hl=vi" hreflang="vi" />
+<link rel="alternate" href="https://www.instagram.com/?hl=bg" hreflang="bg" />
+<link rel="alternate" href="https://www.instagram.com/?hl=fr-ca" hreflang="fr-ca" />
+<link rel="alternate" href="https://www.instagram.com/?hl=ro" hreflang="ro" />
+<link rel="alternate" href="https://www.instagram.com/?hl=sr" hreflang="sr" />
+<link rel="alternate" href="https://www.instagram.com/?hl=uk" hreflang="uk" />
+<link rel="alternate" href="https://www.instagram.com/?hl=zh-hk" hreflang="zh-hk" />
+<link rel="alternate" href="https://www.instagram.com/?hl=es-la" hreflang="es-la" />
+<link rel="alternate" href="https://www.instagram.com/?hl=he" hreflang="he" />
+<link rel="alternate" href="https://www.instagram.com/?hl=fa" hreflang="fa" />
+    
+</head>
+    <body class="">
+        
+    <span id="react-root"></span>
+
+        
+
+        
+            
+<script type="text/javascript">window._sharedData = {"activity_counts": null, "config": {"csrf_token": "kOXmtL5OdQzy0Z4jJoANSLqKiTfARIp1", "viewer": null}, "country_code": "US", "language_code": "en", "entry_data": {"LandingPage": [{"captcha": {"enabled": false, "key": ""}}]}, "gatekeepers": {"bn": true, "ld": true, "nr": true, "pl": true}, "qe": {"dash_for_vod": {"g": "", "p": {}}, "ebd": {"g": "control", "p": {"use_new_styles": "true"}}, "bc3l": {"g": "", "p": {}}, "aysf": {"g": "", "p": {}}, "al": {"g": "", "p": {}}, "ccp": {"g": "test", "p": {"use_hashes": "true"}}, "create_upsell": {"g": "", "p": {}}, "disc": {"g": "", "p": {}}, "feed": {"g": "", "p": {}}, "follow_button": {"g": "", "p": {}}, "stories": {"g": "", "p": {}}, "stories_creation": {"g": "", "p": {}}, "su_universe": {"g": "", "p": {}}, "us": {"g": "", "p": {}}, "us_li": {"g": "", "p": {}}, "nav": {"g": "", "p": {}}, "nav_lo": {"g": "", "p": {}}, "deact": {"g": "", "p": {}}, "sidecar": {"g": "", "p": {}}, "video": {"g": "", "p": {}}, "filters": {"g": "", "p": {}}, "typeahead": {"g": "", "p": {}}, "appsell": {"g": "", "p": {}}, "save": {"g": "", "p": {}}, "stale": {"g": "", "p": {}}, "reg": {"g": "", "p": {}}, "reg_vp": {"g": "", "p": {}}, "nux": {"g": "", "p": {}}, "prof_pic_upsell": {"g": "", "p": {}}, "prof_pic_creation": {"g": "", "p": {}}, "onetaplogin": {"g": "", "p": {}}, "feed_vp": {"g": "", "p": {}}, "push_notifications": {"g": "", "p": {}}, "login_poe": {"g": "", "p": {}}, "feed_perf": {"g": "", "p": {}}, "prefetch": {"g": "", "p": {}}, "report_haf": {"g": "", "p": {}}, "a2hs": {"g": "", "p": {}}, "bg_sync": {"g": "", "p": {}}}, "hostname": "www.instagram.com", "display_properties_server_guess": {"pixel_ratio": 1.5, "viewport_width": 1280, "viewport_height": 589, "orientation": "landscape-primary"}, "environment_switcher_visible_server_guess": true, "platform": "windows_nt_10", "nonce": "NifYDYWdZhRupPL59SzIfA==", "zero_data": {}, "rollout_hash": "67c61fe186ae-hot", "probably_has_app": false, "show_app_install": true};</script>
+<script type="text/javascript">!function(e){function a(n){if(c[n])return c[n].exports;var o=c[n]={i:n,l:!1,exports:{}};return e[n].call(o.exports,o,o.exports,a),o.l=!0,o.exports}var n=window.webpackJsonp;window.webpackJsonp=function(c,r,t){for(var d,f,i,b=0,u=[];b<c.length;b++)f=c[b],o[f]&&u.push(o[f][0]),o[f]=0;for(d in r)Object.prototype.hasOwnProperty.call(r,d)&&(e[d]=r[d]);for(n&&n(c,r,t);u.length;)u.shift()();if(t)for(b=0;b<t.length;b++)i=a(a.s=t[b]);return i};var c={},o={57:0};a.e=function(e){function n(){d.onerror=d.onload=null,clearTimeout(f);var a=o[e];0!==a&&(a&&a[1](new Error("Loading chunk "+e+" failed.")),o[e]=void 0)}var c=o[e];if(0===c)return new Promise(function(e){e()});if(c)return c[2];var r=new Promise(function(a,n){c=o[e]=[a,n]});c[2]=r;var t=document.getElementsByTagName("head")[0],d=document.createElement("script");d.type="text/javascript",d.charset="utf-8",d.async=!0,d.timeout=12e4,a.nc&&d.setAttribute("nonce",a.nc),d.src=a.p+"en_US_Chunk_"+({3:"CreationModules",29:"EmbedPostlude",30:"Report",31:"FeedPage",32:"LocationsPage",33:"Community",34:"SupportInfo",35:"ProfilePage",36:"ExploreLandingPage",37:"GenericSurvey",38:"TagPage",39:"PostPage",40:"Challenge",41:"LoginAndSignupPage",42:"LandingPage",43:"ProfileEmbed",44:"EmailSnoozePage",45:"EmailUnsubscribePage",46:"SettingsPages",47:"ConfirmFollowDialog",48:"NotificationLandingPage",49:"EmbedsPlayground",50:"EmbedPrelude",51:"LocationsDirectoryPage",52:"DirectoryPage",53:"ActivityFeed",54:"CameraPage"}[e]||e)+".js/"+{0:"05e9026b71c9",1:"8e88a3cfe509",2:"bc1b0a403a3e",3:"df05d1257858",4:"56ab088c1841",5:"9f02fe5fa411",6:"c4153cea7d59",7:"2033d75952e3",8:"548ce42e6616",9:"0d41bd8e1c56",10:"dfa84d20ac4b",11:"a9f589da3023",12:"6478702daa2c",13:"058f3c4fdee5",14:"fed8e7a58b79",15:"943d7d92a4b7",16:"680de8614764",17:"59740316e052",18:"248a5234f525",19:"e0d86d14e0f4",20:"4f56e60ce0e7",21:"0eb19e62a855",22:"11f95b28d70c",23:"62bf0a5cd4a0",24:"3ba026cd65d3",25:"66bf167ca658",26:"9759971fe54c",27:"2e25971d0244",28:"9499c1b79891",29:"f956e289c987",30:"3fcf8da9ee25",31:"90f27958066a",32:"029c66ca93eb",33:"71c52acba01c",34:"4dd9cc22cdd3",35:"954001318763",36:"bfa134e1ae82",37:"c3c24b05a776",38:"4b4b96c51261",39:"fc382bdcdbe4",40:"30ce1a96e19b",41:"8c3d5bed1fc1",42:"61add1f9b068",43:"be9bdc0bc3cd",44:"9c1861156a05",45:"4c6ee728dd47",46:"80dbd6ee80dd",47:"d008f00ae8d1",48:"4f6fc0235340",49:"5f05e92b6d0f",50:"530eb1540652",51:"cf1d8d7d2bf0",52:"ea4d5ac9d688",53:"08b64ddcd9c6",54:"af25781276a1"}[e]+".js";var f=setTimeout(n,12e4);return d.onerror=d.onload=n,t.appendChild(d),r},a.m=e,a.c=c,a.d=function(e,n,c){a.o(e,n)||Object.defineProperty(e,n,{configurable:!1,enumerable:!0,get:c})},a.n=function(e){var n=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(n,"a",n),n},a.o=function(e,a){return Object.prototype.hasOwnProperty.call(e,a)},a.p="/static/bundles/",a.oe=function(e){throw console.error(e),e}}([]);</script>
+
+<script type="text/javascript" src="/static/bundles/en_US_Commons.js/35ec2d326408.js"></script>
+<script type="text/javascript" src="/static/bundles/en_US_LandingPage.js/61add1f9b068.js"></script>
+                
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1425767024389221');
+
+fbq('track', 'PageView');
+
+
+</script>
+<noscript>
+
+
+</noscript>
+
+            
+        
+    </body>
+</html>
